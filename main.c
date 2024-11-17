@@ -1,5 +1,3 @@
-// atharva kshirsagar
-// team 17
 
 /* use the following tools to make it work */
 
